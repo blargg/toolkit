@@ -1,0 +1,4 @@
+name = "toolkit"
+uuid = "2ead39b7-706f-4602-b2ff-41bbc5501ea0"
+authors = ["blargg <tomjankauski@gmail.com>"]
+version = "0.1.0"
