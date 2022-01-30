@@ -12,6 +12,6 @@ end
 
 export partial_cor, correlation_mat
 
-include("Plots.js")
+include("Plots.jl")
 
 end # module
