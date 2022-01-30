@@ -10,6 +10,8 @@ function partial_cor(df::AbstractDataFrame, x::Symbol, y::Symbol, z::AbstractVec
     return cor(y_next, x_next)
 end
 
-export partial_cor
+export partial_cor, correlation_mat
+
+include("Plots.js")
 
 end # module
